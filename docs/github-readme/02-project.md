@@ -18,8 +18,7 @@ Descripción detallada y clara del proyecto, incluyendo su propósito, objetivos
 2. [Uso](#uso)
 3. [Características](#características)
 4. [Contribuciones](#contribuciones)
-5. [Pruebas](#pruebas)
-6. [Licencia](#licencia)
+5. [Licencia](#licencia)
 
 ## 💻 Instalación
 
@@ -72,18 +71,6 @@ Instrucciones detalladas para contribuir al proyecto. Incluye pautas para enviar
 Proporciona una guía detallada sobre cómo contribuir al proyecto, incluyendo información sobre el flujo de trabajo de Git, estándares de codificación y cualquier otro proceso relevante.
 
 Por favor, lee nuestra [Guía de Contribución](CONTRIBUTING.md) antes de enviar una solicitud de extracción.
-
-## 🧪 Pruebas
-
-Detalla los procedimientos y herramientas utilizadas para probar el proyecto. Incluye instrucciones para ejecutar pruebas automatizadas, así como cualquier otro tipo de pruebas necesarias para garantizar la calidad del software.
-
-### Ejecutar Pruebas
-
-Proporciona comandos específicos para ejecutar pruebas automatizadas y verificar el correcto funcionamiento del proyecto.
-
-```bash
-$ npm test
-```
 
 ## 📄 Licencia
 
