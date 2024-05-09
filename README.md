@@ -16,7 +16,7 @@ GitHub es una plataforma de desarrollo colaborativo que permite a los desarrolla
 
 Tu perfil de GitHub es tu tarjeta de presentación en la comunidad de desarrolladores. Aquí puedes mostrar tu trabajo, contribuciones a proyectos de código abierto, y tus habilidades técnicas. Aprenderemos cómo optimizar tu perfil para destacarte entre la multitud y aumentar tu visibilidad como desarrollador.
 
-### [GitHub README](docs/github-redme)
+### [GitHub README](docs/github-readme)
 
 El archivo README es la primera impresión que los visitantes tienen de tu proyecto. Es crucial escribir un README claro y conciso que explique qué hace tu proyecto, cómo instalarlo y cómo contribuir. Te guiaremos a través de las mejores prácticas para crear un README efectivo que atraiga a usuarios y colaboradores potenciales.
 
