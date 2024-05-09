@@ -1,6 +1,6 @@
 # Introducción a Github
 
-<img src="https://pngimg.com/uploads/github/github_PNG23.png" alt="gh" width ="400">
+<img src="https://i0.wp.com/www.globalemancipation.ngo/wp-content/uploads/2017/09/github-logo.png?fit=2000%2C665&ssl=1" alt="gh" width ="400">
 
 
 
