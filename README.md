@@ -1,9 +1,8 @@
-# Github-Intro
-
+# Introducción a Github
 
 ¡Bienvenido a nuestro repositorio introductorio de GitHub! Este espacio está diseñado para brindarte una introducción completa a algunas de las características clave de GitHub que te ayudarán a maximizar tu experiencia como desarrollador.
 
-## Acerca de GitHub
+**Acerca de GitHub**
 
 GitHub es una plataforma de desarrollo colaborativo que permite a los desarrolladores alojar y revisar código, así como gestionar proyectos de software. Con millones de usuarios en todo el mundo, GitHub se ha convertido en el lugar de referencia para compartir y colaborar en proyectos de código abierto.
 
