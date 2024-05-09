@@ -1,5 +1,9 @@
 # Introducción a Github
 
+<img src="https://pngimg.com/uploads/github/github_PNG23.png" alt="gh" width ="400">
+
+
+
 ¡Bienvenido a nuestro repositorio introductorio de GitHub! Este espacio está diseñado para brindarte una introducción completa a algunas de las características clave de GitHub que te ayudarán a maximizar tu experiencia como desarrollador.
 
 **Acerca de GitHub**
